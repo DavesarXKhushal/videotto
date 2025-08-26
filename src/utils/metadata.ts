@@ -16,7 +16,7 @@ interface MetadataProps {
 }
 
 export const generateMetadata = ({
-    title = `Videotto - Turn 1 Podcast into 20 Viral Clips`,
+    title = `Videotto - Turn a Podcast into x20 Viral Clips`,
     description = `Videotto is an AI-powered video editing platform that transforms your long-form content into viral clips in minutes. Save hours of manual editing with intelligent AI that creates attention-grabbing highlights perfect for TikTok, Instagram, and more.`,
     icons = [
         {

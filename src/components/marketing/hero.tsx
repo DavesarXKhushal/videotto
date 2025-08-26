@@ -57,9 +57,9 @@ const Hero = () => {
                     </Container>
                     <Container delay={0.15}>
                         <h1 className="text-4xl md:text-4xl lg:text-7xl font-bold text-center !leading-tight max-w-4xl mx-auto">
-                            Turn 1 Podcast into {" "}
+                            Turn a Podcast into {" "}
                             <span className="">
-                                20 Viral Clips
+                                x20 Viral Clips
                             </span>
                         </h1>
                     </Container>
@@ -99,7 +99,7 @@ const Hero = () => {
 
                             <div className="rounded-lg lg:rounded-[22px] border border-border bg-background">
                                 <video
-                                    src="/images/DemoVid.mp4"
+                                    src="/images/demoVid.mp4"
                                     autoPlay
                                     loop
                                     muted
